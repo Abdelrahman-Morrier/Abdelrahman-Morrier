@@ -109,8 +109,3 @@ class About extends Me {
 
 ---
 
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=AbdelrahmanMorrier&style=flat&color=orange)
-
-</div>
