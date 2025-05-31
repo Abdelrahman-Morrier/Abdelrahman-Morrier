@@ -45,16 +45,24 @@
 ```dart
 // tools_I_use organized
 
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "C#", "C++" },
-    "OtherLanguages" : { "HTML", "CSS", },
-    "Database" : {"SqlServer" },
-    "Editors" : { "Vscode", "VS" },
-    "Platforms" : { "Linux", "Windows" },
-    "OtherTools" : { "Git"}
+class About extends Me {
+  static const myTools = {
+    "ProgrammingLanguages": { "C#", "C++" },
+    "OtherLanguages": { "HTML", "CSS" },
+    "Database": { "SQL Server" },
+    "Editors": { "VS Code", "Visual Studio" },
+    "Platforms": { "Linux", "Windows" },
+    "VersionControl": { "Git" },
+    "Backend": {
+      "ASP.NET Core",
+      "MVC",
+      "Web API",
+      "EF Core",
+      "LINQ"
+    }
   };
 }
+
 ```
 
 ## 📂 Projects
