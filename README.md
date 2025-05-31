@@ -45,8 +45,8 @@
 ## 📫 Contact Me
 
 - 📩 **Email:** morrier22@gmail.com 
-- 💼 **LinkedIn:** [linkedin.com/in/AbdelrahmanMorrier](#) *(حط اللينك الحقيقي)*
-- 💬 **Telegram:** [@MorrierDev](#) *(لو عندك تيليجرام تحب تضيفه)*
+- 💼 **LinkedIn:** [www.linkedin.com/in/morrier-dev](#)
+- 💬 **Telegram:** [@[MorrierDev](https://t.me/morriera)]
 
 ---
 
