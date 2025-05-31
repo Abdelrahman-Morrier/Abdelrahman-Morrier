@@ -42,7 +42,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yourprofile/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/></a>
+  <a href="mailto:morrier22@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/></a>
 </p>
 
 ---
