@@ -25,6 +25,10 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![EF Core](https://img.shields.io/badge/EntityFrameworkCore-6E4C7F?style=for-the-badge&logo=.net&logoColor=white)  
+![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-004880?style=for-the-badge&logo=dotnet&logoColor=white)  
+![Web API](https://img.shields.io/badge/Web%20API-24292F?style=for-the-badge&logo=postman&logoColor=white)
 
 **Tools & Platforms**  
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
