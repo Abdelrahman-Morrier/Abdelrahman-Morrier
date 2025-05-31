@@ -23,7 +23,6 @@
 **Languages & Frameworks**  
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
@@ -45,7 +44,7 @@
 
 ## 📫 Contact Me
 
-- 📩 **Email:** AbdelrahmanMorrier@gmail.com *(مثال، حط الإيميل الصح لو حبيت)*
+- 📩 **Email:** morrier22@gmail.com 
 - 💼 **LinkedIn:** [linkedin.com/in/AbdelrahmanMorrier](#) *(حط اللينك الحقيقي)*
 - 💬 **Telegram:** [@MorrierDev](#) *(لو عندك تيليجرام تحب تضيفه)*
 
