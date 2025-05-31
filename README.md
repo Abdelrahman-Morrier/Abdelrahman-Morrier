@@ -22,6 +22,17 @@
 </div>
 
 
+## 🧠 About Me
+
+- 👨‍💻 Currently learning: **.NET Backend Development** with C#  
+- 🛠️ Technologies I'm working with: ASP.NET Core, EF Core, LINQ, SQL  
+- 🎯 My goal: **Become a professional backend engineer and contribute to open source**  
+- 🤝 I’m looking for internship or junior-level opportunities
+- 💡 Passionate about building clean, maintainable backend systems.
+
+---
+
+
 ## 🧰 Tech Stack
 
 **Languages & Frameworks**  
@@ -60,17 +71,6 @@ class About extends Me {
   };
 }
 ```
-
-## 🧠 About Me
-
-- 👨‍💻 Currently learning: **.NET Backend Development** with C#  
-- 🛠️ Technologies I'm working with: ASP.NET Core, EF Core, LINQ, SQL  
-- 🎯 My goal: **Become a professional backend engineer and contribute to open source**  
-- 🤝 I’m looking for internship or junior-level opportunities
-- 💡 Passionate about building clean, maintainable backend systems.
-
----
-
 
 ## 📂 Projects
 
