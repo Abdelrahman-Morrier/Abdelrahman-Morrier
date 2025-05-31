@@ -53,13 +53,7 @@ class About extends Me {
     "Editors": { "VS Code", "Visual Studio" },
     "Platforms": { "Linux", "Windows" },
     "VersionControl": { "Git" },
-    "Backend": {
-      "ASP.NET Core",
-      "MVC",
-      "Web API",
-      "EF Core",
-      "LINQ"
-    }
+    "Backend": { "ASP.NET Core", "MVC", "Web API", "EF Core", "LINQ" }
   };
 }
 
