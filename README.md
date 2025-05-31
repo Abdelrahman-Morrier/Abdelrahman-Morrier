@@ -3,12 +3,6 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
-<h1>Hey, I'm Abdelrahman Morrier 👋</h1>
-<h3>Aspiring .NET Backend Developer | Lifelong Learner</h3>
-
-
-
----
 <details>
   <summary><strong>🎧 Busy coding & vibing to:</strong></summary>
 
@@ -18,8 +12,13 @@
 </details>
 
 ![Total Hits](https://komarev.com/ghpvc/?username=Abdelrahman-Morrier&style=flat&color=orange&label=PROFILE+VIEWS)
-[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/morrier-dev)
-[![telegram badge](https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram)](https://t.me/morriera) <br>
+[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/morrier-dev)
+[![Telegram badge](https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram)](https://t.me/morriera) <br>
+
+---
+<h1>Hey, I'm Abdelrahman Morrier 👋</h1>
+<h3>Aspiring .NET Backend Developer | Lifelong Learner</h3>
+
 
 </div>
 ---
@@ -71,14 +70,15 @@ class About extends Me {
 - 🛠️ Technologies I'm working with: ASP.NET Core, EF Core, LINQ, SQL  
 - 🎯 My goal: **Become a professional backend engineer and contribute to open source**  
 - 🤝 I’m looking for internship or junior-level opportunities
+- 💡 Passionate about building clean, maintainable backend systems.
 
 ---
 
 
 ## 📂 Projects
 
-> تحت التطوير... قريبًا هضيف المشاريع الخاصة بي هنا  
-> ✨ بمجرد إني أخلص أول بروجيكت في ASP.NET MVC أو Web API، هتلاقيه هنا
+> > 🚧 Projects section under construction — stay tuned for upcoming ASP.NET MVC & Web API projects!
+
 
 ---
 
