@@ -13,15 +13,14 @@
 
 ![Total Hits](https://komarev.com/ghpvc/?username=Abdelrahman-Morrier&style=flat&color=orange&label=PROFILE+VIEWS)
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/morrier-dev)
-[![Telegram badge](https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram)](https://t.me/morriera) <br>
+[![Telegram badge](https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram)](https://t.me/morriera) 
 
 ---
 <h1>Hey, I'm Abdelrahman Morrier 👋</h1>
 <h3>Aspiring .NET Backend Developer | Lifelong Learner</h3>
 
-
 </div>
----
+
 
 ## 🧰 Tech Stack
 
@@ -61,8 +60,6 @@ class About extends Me {
   };
 }
 ```
-
----
 
 ## 🧠 About Me
 
