@@ -6,25 +6,22 @@
 <h1>Hey, I'm Abdelrahman Morrier 👋</h1>
 <h3>Aspiring .NET Backend Developer | Lifelong Learner</h3>
 
-</div>
+
 
 ---
 <details>
   <summary><strong>🎧 Busy coding & vibing to:</strong></summary>
 
-  [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)]([https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME](https://open.spotify.com/user/31eooxqgr57wtnjd7j77glpz732i?si=af8af31811a94f28))
+  [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)]([https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME](https://open.spotify.com/user/31eooxqgr57wtnjd7j77glpz732i?si=af8af31811a94f28)) <be>
   
-  <br>
 
 </details>
 
 ![Total Hits](https://komarev.com/ghpvc/?username=Abdelrahman-Morrier&style=flat&color=orange&label=PROFILE+VIEWS)
-
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAbdelrahman-Morrier&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram)](https://t.me/morriera) <br>
 
-[![telegram badge](https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram)](https://t.me/morriera)
-
-
+</div>
 ---
 
 ## 🧰 Tech Stack
