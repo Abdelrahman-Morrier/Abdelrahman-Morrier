@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **.NET Backend Development, ASP.NET Core, C#, Entity Framework, and SQL**
 
-- 📫 How to reach me: **youremail@example.com** (Replace it!)
+- 📫 How to reach me: **morrier22@gmail.com**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/AbdelrahmanMorrier](https://github.com/AbdelrahmanMorrier)
 
