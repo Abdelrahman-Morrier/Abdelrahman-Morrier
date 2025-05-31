@@ -42,6 +42,18 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
+// tools_I_use organized
+
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : { "C#", "C++" },
+    "OtherLanguages" : { "HTML", "CSS", },
+    "Database" : {"SqlServer" },
+    "Editors" : { "Vscode", "VS" },
+    "Platforms" : { "Linux", "Windows" },
+    "OtherTools" : { "Git"}
+  };
+}
 
 ## 📂 Projects
 
