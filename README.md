@@ -42,6 +42,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
+```dart
 // tools_I_use organized
 
 class About extends Me { 
@@ -54,6 +55,7 @@ class About extends Me {
     "OtherTools" : { "Git"}
   };
 }
+```
 
 ## 📂 Projects
 
