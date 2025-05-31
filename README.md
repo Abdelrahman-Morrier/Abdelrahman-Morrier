@@ -47,6 +47,7 @@ class About extends Me {
     "Backend": { "ASP.NET Core", "MVC", "Web API", "EF Core", "LINQ" }
   };
 }
+```
 
 ---
 
@@ -57,7 +58,8 @@ class About extends Me {
 - 🎯 My goal: **Become a professional backend engineer and contribute to open source**  
 - 🤝 I’m looking for internship or junior-level opportunities
 
-```
+---
+
 
 ## 📂 Projects
 
