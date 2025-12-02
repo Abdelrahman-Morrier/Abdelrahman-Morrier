@@ -1,8 +1,8 @@
 <div align="center">
 
 
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dXJiMmh5b21yYTBmMHkxMWozc3psZWF2ZTIxdXJobWh2cGZtMHBrcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiTnLxAA1LTBMKMkU/giphy.gif" width="60%" />
-<img src="https://images7.alphacoders.com/137/thumb-1920-1375180.png" width="40%" />
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dXJiMmh5b21yYTBmMHkxMWozc3psZWF2ZTIxdXJobWh2cGZtMHBrcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiTnLxAA1LTBMKMkU/giphy.gif" width="40%" />
+<img src="https://images7.alphacoders.com/137/thumb-1920-1375180.png" width="50%" />
 
 <details>
   <summary><strong>🎧 Busy coding & vibing to:</strong></summary>
