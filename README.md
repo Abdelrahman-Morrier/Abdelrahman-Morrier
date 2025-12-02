@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src=https://images7.alphacoders.com/137/thumb-1920-1375180.png width="60%" />
-<img src="https://raw.githubusercontent.com/defvs/cyber-assets/main/terminal-hacker.gif" width="40%" />
- 
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM250YWxlZHZzdDNxaHdmbTQ5dW1peGhpbHV0N2Y2YzBoYmRxM3l2OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gXr3j6YAClXFfZABn5/giphy.gif" width="60%" />
+<img src="https://images7.alphacoders.com/137/thumb-1920-1375180.png" width="40%" />
 
 <details>
   <summary><strong>🎧 Busy coding & vibing to:</strong></summary>
