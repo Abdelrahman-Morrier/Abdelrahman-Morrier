@@ -17,43 +17,43 @@
 
 ---
 <h1>Hey, I'm Abdelrahman Morrier 👋</h1>
-<h3>Aspiring .NET Backend Developer | Lifelong Learner</h3>
+<h3>Junior Pentester (Web & Network)</h3>
 
 </div>
 
 
 ## 🧠 About Me
 
-- 👨‍💻 Currently learning: **.NET Backend Development** with C#  
-- 🛠️ Technologies I'm working with: ASP.NET Core, EF Core, LINQ, SQL  
-- 🎯 My goal: **Become a professional backend engineer and contribute to open source**  
-- 🤝 I’m looking for internship or junior-level opportunities
-- 💡 Passionate about building clean, maintainable backend systems.
+- 👨‍💻 Currently learning: **Cyber Security & Penetration Testing**
+- 🛠️ Technologies I'm working with: Linux, Networking, Bash, Python for Security, Web Security
+- 🧪 Labs: Practicing on TryHackMe, HackTheBox, and local vulnerable machines
+- 🎯 My goal: **Become a professional penetration tester**
+- 📚 Previously explored backend development — now fully focused on the cyber field
+- 🤝 Open for cybersecurity internships, CTF teams, or beginner-level opportunitie
 
 ---
 
 
 ## 🧰 Tech Stack
 
-**Languages & Frameworks**  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![EF Core](https://img.shields.io/badge/EF_Core-6E4C7F?style=flat-square&logo=.net&logoColor=white)
-![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-004880?style=flat-square&logo=dotnet&logoColor=white)
-![Web API](https://img.shields.io/badge/Web_API-24292F?style=flat-square&logo=postman&logoColor=white)
+## 🧰 Tech Stack (Cyber Security)
 
-**Tools & Platforms**  
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+**Languages & Scripting**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=flat&logo=gnu-bash&logoColor=white)
+
+**Operating Systems**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+
+**Networking & Security Tools**
+![Nmap](https://img.shields.io/badge/Nmap-0078D4?style=flat&logo=windows-terminal&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=flat&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2D9CDB?style=flat&logo=metasploit&logoColor=white)
+
+**Web & Pentesting**
+![Web Security](https://img.shields.io/badge/Web_Security-4A154B?style=flat&logo=security&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking_Basics-0066CC?style=flat&logo=cisco&logoColor=white)
 
 ---
 ```dart
@@ -74,8 +74,13 @@ class About extends Me {
 
 ## 📂 Projects
 
-> > 🚧 Projects section under construction — stay tuned for upcoming ASP.NET MVC & Web API projects!
+> > 🚧 Projects section under construction — upcoming cybersecurity labs, scripts, and writeups!
 
+---
+
+## 🔍 Cyber Labs & Progress
+
+> > 🚧 SOON
 
 ---
 
