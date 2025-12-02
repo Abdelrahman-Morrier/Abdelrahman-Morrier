@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+<img src="https://raw.githubusercontent.com/defvs/open-assets/main/cyber/hacker-minimal-blue.gif" width="60%" alt="Cyber Gif"/>  
+<img src="https://raw.githubusercontent.com/defvs/open-assets/main/cyber/terminal-hacker.gif" width="40%" alt="Cyber Terminal"/>  
 
 <details>
   <summary><strong>🎧 Busy coding & vibing to:</strong></summary>
