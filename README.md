@@ -57,17 +57,16 @@
 
 ---
 ```dart
-// tools_I_use organized
+// tools_I_use organized (Cyber Edition)
 
 class About extends Me {
   static const myTools = {
-    "ProgrammingLanguages": { "C#", "C++" },
-    "OtherLanguages": { "HTML", "CSS" },
-    "Database": { "SQL Server" },
-    "Editors": { "VS Code", "Visual Studio" },
-    "Platforms": { "Linux", "Windows" },
-    "VersionControl": { "Git" },
-    "Backend": { "ASP.NET Core", "MVC", "Web API", "EF Core", "LINQ" }
+    "Scripting": { "Python", "Bash" },
+    "OperatingSystems": { "Linux", "Kali Linux", "Windows" },
+    "Networking": { "Networking Basics", "Protocols" },
+    "PentestingTools": { "Nmap", "Burp Suite", "Metasploit" },
+    "WebSecurity": { "OWASP Top 10", "DVWA", "Juice Shop" },
+    "VersionControl": { "Git", "GitHub" }
   };
 }
 ```
