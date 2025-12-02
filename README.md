@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/defvs/open-assets/main/cyber/matrix-green.gif" width="60%" alt="Matrix"/>  
-<img src="https://raw.githubusercontent.com/defvs/open-assets/main/cyber/scanlines.gif" width="40%" alt="Cyber Screen"/>  
+<img src="https://raw.githubusercontent.com/defvs/cyber-assets/main/hacker-minimal-blue.gif" width="60%" />
+<img src="https://raw.githubusercontent.com/defvs/cyber-assets/main/terminal-hacker.gif" width="40%" />
  
 
 <details>
