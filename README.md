@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/defvs/cyber-assets/main/hacker-minimal-blue.gif" width="60%" />
+<img src=https://images7.alphacoders.com/137/thumb-1920-1375180.png width="60%" />
 <img src="https://raw.githubusercontent.com/defvs/cyber-assets/main/terminal-hacker.gif" width="40%" />
  
 
