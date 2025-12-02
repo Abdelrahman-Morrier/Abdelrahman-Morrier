@@ -34,7 +34,7 @@
 ---
 
 
-## 🧰 Tech Stack
+
 
 ## 🧰 Tech Stack (Cyber Security)
 
