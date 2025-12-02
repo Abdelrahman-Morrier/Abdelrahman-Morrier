@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/defvs/open-assets/main/cyber/hacker-minimal-blue.gif" width="60%" alt="Cyber Gif"/>  
-<img src="https://raw.githubusercontent.com/defvs/open-assets/main/cyber/terminal-hacker.gif" width="40%" alt="Cyber Terminal"/>  
+<img src="https://raw.githubusercontent.com/defvs/open-assets/main/cyber/matrix-green.gif" width="60%" alt="Matrix"/>  
+<img src="https://raw.githubusercontent.com/defvs/open-assets/main/cyber/scanlines.gif" width="40%" alt="Cyber Screen"/>  
+ 
 
 <details>
   <summary><strong>🎧 Busy coding & vibing to:</strong></summary>
