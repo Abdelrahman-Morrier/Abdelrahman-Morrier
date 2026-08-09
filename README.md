@@ -28,7 +28,7 @@
 - 🐧 Hands-on experience with **Linux, Networking, HTTP, and Burp Suite**
 - 🔎 Practicing **Reconnaissance & Subdomain Enumeration**
 - 🌐 Practicing **Web Security, SQL Injection, XSS, and SQLMap**
-- 🧪 Hands-on practice with **VulnHub and CTF environments**
+- 🧪 Hands-on practice with **VulnHub, TryHackMe, Hack The Box, DVWA, OWASP Juice Shop, and CTF environments**
 - 🚩 Practiced **Enumeration, Web Exploitation, Password Attacks, and Privilege Escalation**
 - 👑 Obtained **root access** in vulnerable lab environments
 - 📚 Studied the **OWASP Top 10**
@@ -44,9 +44,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cpp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
 
 ### 🔹 Operating Systems
 
@@ -83,16 +83,27 @@
 
 ## 🧪 Practical Labs
 
-### VulnHub & CTF Practice
+### VulnHub, TryHackMe & Hack The Box
 
-Hands-on practice across **4–5 vulnerable machines**, including:
+Hands-on practice across vulnerable machines and security labs, including:
 
 - Reconnaissance and subdomain enumeration
-- Service enumeration with Nmap
+- Service and directory enumeration
 - Web application enumeration and exploitation
+- SQL Injection and XSS practice
 - Password attacks
 - Privilege escalation
 - Root access in controlled lab environments
+
+### Web Security Labs
+
+Practical experience with:
+
+- **DVWA**
+- **OWASP Juice Shop**
+- **OWASP Top 10**
+- Web authentication and access control concepts
+- HTTP request/response analysis using Burp Suite
 
 > All activities are performed in authorized lab and CTF environments.
 
