@@ -86,7 +86,7 @@ class About extends Me {
 ## 📫 Contact Me
 
 - 📩 **Email:** morrier22@gmail.com 
-- 💼 **LinkedIn:** [www.linkedin.com/in/morrier-dev](#)
+- 💼 **LinkedIn:** [www.linkedin.com/in/abdelrahman-morrier](#)
 - 💬 **Telegram:** [@[MorrierDev](https://t.me/morriera)]
 
 ---
