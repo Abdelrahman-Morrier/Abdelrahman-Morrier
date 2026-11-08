@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="https://images7.alphacoders.com/137/thumb-1920-1375180.png" width="60%" />
 
@@ -16,7 +16,9 @@
 
 <h1>Hey, I'm Abdelrahman Morrier 👋</h1>
 
-<h3>Web & Network Security | Penetration Testing</h3>
+<h3>Backend Developer | Node.js </h3>
+
+<p>Building strong backend fundamentals, one step at a time.</p>
 
 </div>
 
@@ -24,108 +26,114 @@
 
 ## 🧠 About Me
 
-- 🔐 Focused on **Web & Network Penetration Testing**
-- 🐧 Hands-on experience with **Linux, Networking, HTTP, and Burp Suite**
-- 🔎 Practicing **Reconnaissance & Subdomain Enumeration**
-- 🌐 Practicing **Web Security, SQL Injection, XSS, and SQLMap**
-- 🧪 Hands-on practice with **VulnHub, TryHackMe, Hack The Box, DVWA, OWASP Juice Shop, and CTF environments**
-- 🚩 Practiced **Enumeration, Web Exploitation, Password Attacks, and Privilege Escalation**
-- 👑 Obtained **root access** in vulnerable lab environments
-- 📚 Studied the **OWASP Top 10**
-- 🎯 Currently developing skills in **Access Control and IDOR**
-- 📱 Planning to expand into **Mobile Application Security**
-- 💻 Programming background in **Python, C#, C++, SQL, and Bash**
+- 💻 Currently focusing on **Backend Development with Node.js**
+- 🚀 Learning JavaScript, Node.js, Express.js, and Backend Architecture
+- 🗄️ Exploring Databases, SQL, and Data Modeling
+- 🧩 Building strong foundations in Programming, Problem Solving, and Computer Science
+- 🔐 Background and practical learning experience in Web & Network Security
+- 🧪 Practiced Web Security through PortSwigger Web Security Academy and vulnerable lab environments
+- 🐧 Familiar with Linux, Networking, HTTP, and Burp Suite
+- 🎯 Interested in building secure, scalable, and maintainable backend applications
+- 📚 Believe in learning by building, experimenting, and documenting progress
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Current Tech Stack
+
+### 🔹 Backend Development
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
 ### 🔹 Programming & Scripting
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cpp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
 
-### 🔹 Operating Systems
+### 🔹 Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### 🔹 Development Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+### 🔹 Cybersecurity Background
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-
-### 🔹 Reconnaissance & Enumeration
-
-![Nmap](https://img.shields.io/badge/Nmap-0078D4?style=flat)
-![Amass](https://img.shields.io/badge/Amass-5C2D91?style=flat)
-![Gobuster](https://img.shields.io/badge/Gobuster-333333?style=flat)
-![Dirsearch](https://img.shields.io/badge/Dirsearch-222222?style=flat)
-![ffuf](https://img.shields.io/badge/ffuf-333333?style=flat)
-![Wappalyzer](https://img.shields.io/badge/Wappalyzer-4600A8?style=flat)
-
-### 🔹 Web Security & Pentesting
-
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=flat&logo=burpsuite&logoColor=white)
-![SQLMap](https://img.shields.io/badge/SQLMap-111111?style=flat)
-![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat&logo=owasp&logoColor=white)
-
-### 🔹 Exploitation & Password Testing
-
-![Metasploit](https://img.shields.io/badge/Metasploit-2D9CDB?style=flat)
-![Hydra](https://img.shields.io/badge/Hydra-333333?style=flat)
-![John the Ripper](https://img.shields.io/badge/John_the_Ripper-333333?style=flat)
-
-### 🔹 Network Analysis
-
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white)
 
 ---
 
-## 🧪 Practical Labs
+## 📚 Learning Roadmap
 
-### VulnHub, TryHackMe & Hack The Box
+Currently following a structured Backend Node.js learning journey.
 
-Hands-on practice across vulnerable machines and security labs, including:
+- [ ] Programming Fundamentals & JavaScript
+- [ ] Node.js Fundamentals
+- [ ] NPM & Package Management
+- [ ] Express.js
+- [ ] REST APIs & Authentication
+- [ ] Databases & PostgreSQL
+- [ ] ORM & Database Management
+- [ ] TypeScript
+- [ ] NestJS
+- [ ] Testing & Software Engineering
+- [ ] Deployment & Backend Projects
 
-- Reconnaissance and subdomain enumeration
-- Service and directory enumeration
-- Web application enumeration and exploitation
-- SQL Injection and XSS practice
-- Password attacks
-- Privilege escalation
-- Root access in controlled lab environments
-
-### Web Security Labs
-
-Practical experience with:
-
-- **DVWA**
-- **OWASP Juice Shop**
-- **OWASP Top 10**
-- Web authentication and access control concepts
-- HTTP request/response analysis using Burp Suite
-
-> All activities are performed in authorized lab and CTF environments.
+*This roadmap is a work in progress.*
 
 ---
 
-## 📚 Security Training
+## 🔐 Cybersecurity Background
 
-### Red Nexus — Red Teaming & Ethical Hacking
-**Hossam Shady · In Progress**
+My interest in cybersecurity has helped me understand how applications work and how they can be secured.
 
-Training covering Linux, networking, reconnaissance, web security, and penetration testing fundamentals.
+Areas I have explored:
 
-### eJPT Training
-**NetRiders — Ahmed Sultan · Completed Curriculum**
+- Web Application Security
+- SQL Injection & Cross-Site Scripting (XSS)
+- Authentication & Access Control
+- IDOR Vulnerabilities
+- Reconnaissance & Enumeration
+- Linux & Network Fundamentals
+- Burp Suite & OWASP Top 10
 
-Studied the eJPT curriculum with a focus on penetration testing fundamentals and practical security concepts.
+**Practice Platforms:**
+- PortSwigger Web Security Academy
+- TryHackMe
+- Hack The Box
+- DVWA
+- OWASP Juice Shop
 
 ---
 
-## 🎯 Current Focus
+## 🚀 Projects
 
-**Web Security → Authentication → Access Control / IDOR → Mobile Application Security → Advanced Penetration Testing**
+I'm currently building my backend development skills.
+
+This section will showcase practical projects as I progress through the roadmap.
+
+---
+
+## 📈 My Development Philosophy
+
+- Learn the fundamentals before the frameworks.
+- Write code, don't just watch tutorials.
+- Build projects to solve real problems.
+- Understand what happens behind the scenes.
+- Write clean, maintainable, and secure code.
+- Document every important step of the journey.
 
 ---
 
@@ -141,6 +149,6 @@ Studied the eJPT curriculum with a focus on penetration testing fundamentals and
 
 <div align="center">
 
-### ⚡ Keep Learning. Keep Breaking. Keep Building.
+### ⚡ Learn. Build. Break. Improve.
 
 </div>
